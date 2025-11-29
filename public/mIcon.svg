@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Memory verse icon">
+  <!-- outer badge / page shape -->
+  <path
+    d="M4 42.4S14.1 36 24 41.2C35.1 46.9 44 42.2 44 42.2V7s-8.9 4.6-20 0C14.1.9 4 7.3 4 7.3v35.1Z"
+    fill="#add8e6"
+
+  />
+ 
+</svg>

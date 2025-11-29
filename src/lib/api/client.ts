@@ -1,5 +1,5 @@
 
-const BASE_URL = process.env.NEXT_PUBLIC_DEV_API_URL;
+const BASE_URL = process.env.NEXT_PUBLIC_API_URL;
 
 export async function api(endpoint: string, options?: RequestInit) {
   const url = `${BASE_URL}${endpoint}`;

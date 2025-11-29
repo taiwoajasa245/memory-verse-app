@@ -12,6 +12,9 @@ export const metadata = {
   title: "MemoryVerse - Grow Daily in the Word",
   description:
     "Deepen your faith and memorize scripture with daily verses delivered to you.",
+  icons: {
+    icon: "/mIcon.svg",
+  },
 };
 
 export default function RootLayout({
